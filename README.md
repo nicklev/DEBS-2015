@@ -4,4 +4,5 @@ The ACM DEBS 2015 Grand Challenge is the fifth in a series of challenges which s
 The data for the 2015 Grand Challenge is based on a data set released under the FOIL (The Freedom of Information Law) and made public by Chris Whong (http://chriswhong.com/open-data/foil_nyc_taxi/). Details about the data, the queries for the DEBS 2015 Grand Challenge, and information about how the challenge will be evaluated is provided below.
 
 Challenge link: http://www.debs2015.org/call-grand-challenge.html
+
 Published paper: https://dl.acm.org/doi/abs/10.1145/2675743.2776759
